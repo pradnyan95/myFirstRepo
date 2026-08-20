@@ -1,0 +1,2 @@
+# myFirstRepo
+LWC component
