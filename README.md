@@ -1,2 +1,3 @@
 # myFirstRepo
-LWC component
+LWC component <br>
+This is my first Git Repo
